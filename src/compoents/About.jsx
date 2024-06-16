@@ -11,7 +11,7 @@ function About() {
                 </div>
                 <div className='right1'>
 
-                    <h3>Java FullStack Developer</h3>
+                    <h3>Software developer</h3>
                     <p><span className='line'>I am doing BTech in Computer Science and Engineering From UIET Mdu Rohtak & having passing year 2024</span>
                         <br></br>
                         <br></br>
